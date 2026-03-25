@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ラズベリー＊モンスター（feat. 鎖那）",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-03-25T19:45:06.172942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラズベリー＊モンスター (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/01_ラズベリー_モンスター_(feat._鎖那)_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラズベリー*モンスター (feat. un:c) (フラット3rd Remix)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_ラズベリー_モンスター_(feat._un_c)_(フラット3rd_Remix)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラズベリー∗モンスター (feat․ kradness)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/03_ラズベリー∗モンスター_(feat._kradness)_HoneyWorks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラズベリー*モンスター (feat. 花たん)",
+      "artist": "HoneyWorks, 花たん",
+      "has_synced": false,
+      "path": "select/pl_01_ラズベリー_モンスター_(feat._花たん)_HoneyWorks,_花たん.txt"
+    }
+  ]
+}
